@@ -1,16 +1,4 @@
-# covid19_data_app
+#COVID-19 Data APP(Mobile)
+Bu uygulamamda Flutter ile UI alıştırmalarımdan birini yaptım. UI aşaması tamamlanmış olup bir sonraki aşamada uygulama çalışır hale gelecektir. UI hakkında görseller:
 
-Covid Data App
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/47521147/143286302-8a4e7bb3-719e-4fa8-a647-2995455fdc3d.gif)
